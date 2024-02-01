@@ -41,7 +41,6 @@ body {
 
 /* Tampilan mobile dan tablet <992px (small dan medium) */
 @media (max-width: 991px) {
-    .warna-1,
     .warna-2,
     .warna-3,
     .warna-4,
@@ -49,6 +48,11 @@ body {
         padding-top: 70px; 
         padding-bottom: 20px; 
     }
+    .warna-1{
+        padding-top: 400px; 
+        padding-bottom: 20px; 
+    }
+
 
     .padding {
         padding-top: 0;
